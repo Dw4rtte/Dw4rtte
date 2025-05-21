@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=E3E6FF&text=Lucas%20Duarte&reversal=false&section=header&fontColor=143464&fontSize=85&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=CCBCA2&text=Lucas%20Duarte&fontSize=90">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&duration=4500&pause=1000&color=E2E6FF&center=true&vCenter=true&width=435&lines=%E2%80%A2+Cybersecurity+%E2%80%A2;%E2%80%A2+Infrastructure+%E2%80%A2;%E2%80%A2+Hardware+%E2%80%A2;%E2%80%A2+Windows+%7C+Linux+%E2%80%A2">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&duration=4500&pause=1000&color=CCBCA2&center=true&vCenter=true&width=435&lines=%E2%80%A2+Cybersecurity+%E2%80%A2;%E2%80%A2+Infrastructure+%E2%80%A2;%E2%80%A2+Hardware+%E2%80%A2;%E2%80%A2+Windows+%7C+Linux+%E2%80%A2">
 </p>
 
 ## Sobre Mim
 
-<img align="right" height="248" src="https://art.pixilart.com/sr5ze527598a8eaws3.png">
+<img align="right" height="248" src="https://art.pixilart.com/sr25ad6e47546aws3.gif">
 
 🎓 Estudante de Tecnologia da Informação no SENAI.
 Sou um entusiasta da tecnologia, sempre curioso sobre como sistemas, redes e dispositivos funcionam. Essa paixão me levou a iniciar minha formação técnica em TI, onde venho desenvolvendo habilidades sólidas em infraestrutura de redes, administração de sistemas e segurança cibernética.

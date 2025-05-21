@@ -8,34 +8,34 @@
 
 ## Sobre Mim
 
-<img align="right" height="215" src="https://art.pixilart.com/sr5ze527598a8eaws3.png">
+<img align="right" height="255" src="https://art.pixilart.com/sr5ze527598a8eaws3.png">
 
-🎓 Estudante de Tecnologia da Informação no SENAI
+🎓 Estudante de Tecnologia da Informação no SENAI.
 Sou um entusiasta da tecnologia, sempre curioso sobre como sistemas, redes e dispositivos funcionam. Essa paixão me levou a iniciar minha formação técnica em TI, onde venho desenvolvendo habilidades sólidas em infraestrutura de redes, administração de sistemas e segurança cibernética.
 
 💡 Motivação pessoal:
 Desenvolver habilidades práticas e entender o "por trás dos bastidores" da tecnologia são o que mais me envolvem. Encaro cada novo desafio como uma chance de aprender algo valioso e ampliar minha visão na área de TI.
 
-_**"A maior glória em viver não está em nunca cair, mas em levantar-se a cada queda - Nelson Mandela"**_
+_**"Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e as torne grandes." — Orison Swett Marden**_
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,python,windows,linux,aws,azure,grafana">
+  <img src="https://skillicons.dev/icons?i=vscode,python,azure,aws,windows,linux,grafana">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
 <p align="center">
+  <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8"
+    <p align="center">
+  <img src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+    <p align="center">
   <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0"
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624"
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8"
 <p align="center">
 </p>

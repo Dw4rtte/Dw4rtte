@@ -15,6 +15,7 @@ Sou um entusiasta da tecnologia, sempre curioso sobre como sistemas, redes e dis
 
 💡 Motivação pessoal:
 Desenvolver habilidades práticas e entender o "por trás dos bastidores" da tecnologia são o que mais me envolvem. Encaro cada novo desafio como uma chance de aprender algo valioso e ampliar minha visão na área de TI.
+
 _**"A maior glória em viver não está em nunca cair, mas em levantar-se a cada queda - Nelson Mandela"**_
 
 ---

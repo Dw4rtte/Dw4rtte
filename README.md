@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=32&pause=1000&color=FFFAFA&center=true&vCenter=true&width=435&lines=Infrastructure+%F0%9F%9B%A0%EF%B8%8F;Hardware+%F0%9F%96%A5;Cybersecurity+%F0%9F%91%BE">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&duration=4500&pause=1000&color=E2E6FF&center=true&vCenter=true&width=435&lines=%E2%80%A2+Cybersecurity+%E2%80%A2;%E2%80%A2+Infrastructure+%E2%80%A2;%E2%80%A2+Hardware+%E2%80%A2;%E2%80%A2+Windows+%7C+Linux+%E2%80%A2">
 </p>
 
 ## Sobre Mim

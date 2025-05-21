@@ -23,7 +23,7 @@ _**"Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e as
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,python,azure,aws,windows,linux,grafana">
+  <img src="https://skillicons.dev/icons?i=vscode,python,azure,grafana,aws,windows,linux">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"

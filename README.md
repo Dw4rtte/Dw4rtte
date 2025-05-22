@@ -20,7 +20,7 @@ _**"Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e as
 
 ---
 
-## Tech Stack
+## Habilidades Técnicas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,python,azure,grafana,aws,windows,linux">

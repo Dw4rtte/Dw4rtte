@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 
-<img align="right" height="255" src="https://i.pinimg.com/736x/5d/2e/7d/5d2e7d1816c34b62c5d7737976904527.jpg">
+<img align="right" height="260" src="https://i.pinimg.com/736x/5d/2e/7d/5d2e7d1816c34b62c5d7737976904527.jpg">
 
 🎓 Sou estudante de Tecnologia da Informação no SENAI. Desde cedo, a curiosidade sobre como funcionam sistemas, redes e dispositivos despertou minha paixão pela tecnologia. Esse interesse me motivou a iniciar minha formação técnica em TI, onde venho adquirindo conhecimentos sólidos em infraestrutura de redes, administração de sistemas e segurança cibernética.
 

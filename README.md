@@ -39,7 +39,7 @@ _**"Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e as
 
 ## 🎖️ Certificações
 
-| Certifição | Nome |
+| Certificação | Nome |
 | --- | --- |
 | ![AWS Academy Graduate - AWS Academy Cloud Developing](https://img.shields.io/badge/AWS_Academy_Graduate%3A_AWS_Academy_Cloud_Developing-t?style=for-the-badge&logo=amazonwebservices&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F3e493b05-2519-4654-a758-297b96a85dfc%2Fpublic_url) | AWS Academy Graduate - AWS Academy Cloud Developing |
 | ![AWS Academy Graduate - AWS Academy Cloud Foundations](https://img.shields.io/badge/AWS_Academy_Graduate%3A_AWS_Academy_Cloud_Foundations-t?style=for-the-badge&logo=amazonwebservices&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fa1c2b7f5-1496-4397-9088-ad11cb7acb86%2Flinked_in_profile) | AWS Academy Graduate - AWS Academy Cloud Foundations |

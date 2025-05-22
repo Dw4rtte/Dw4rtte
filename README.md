@@ -37,6 +37,8 @@ _**"Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e as
 
 ## 🎖️ Certificações
 
+<img align="right" height="300" src="https://i.pinimg.com/736x/10/df/23/10df23774a8f735c9b3ba03bd020b232.jpg">
+
 | Certificação | Nome |
 | --- | --- |
 | ![AWS Academy Graduate](https://img.shields.io/badge/AWS_Academy_Graduate-t?style=for-the-badge&logo=amazonwebservices&logoColor=white&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F3e493b05-2519-4654-a758-297b96a85dfc%2Fpublic_url) | Cloud Developing |
@@ -45,3 +47,4 @@ _**"Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e as
 | ![Cisco CCNA](https://img.shields.io/badge/cisco%3A_ccna-t?style=for-the-badge&logo=cisco&logoColor=white&color=darkblue&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fe3f95cab-591f-428d-adb0-67dfdc04ca72%2Flinked_in_profile) | Switching, Routing, and Wireless Essentials |
 | ![Cisco CCNA](https://img.shields.io/badge/cisco%3A_ccna-t?style=for-the-badge&logo=cisco&logoColor=white&color=darkblue&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Ffbdeea3a-a2da-46d6-815a-dbcbe7c2877b%2Flinked_in_profile) | Introduction to Networks |
 | ![Senai](https://img.shields.io/badge/Senai-t?style=for-the-badge&logo=semanticui&logoColor=darkred&color=white) | Computer Network Technician |
+

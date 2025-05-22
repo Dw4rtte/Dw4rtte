@@ -34,3 +34,15 @@ _**"Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e as
   <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0">
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624">
 </p>
+
+
+
+## 🎖️ Certificações
+
+| Certifição | Nome |
+| --- | --- |
+| ![AWS Academy Graduate - AWS Academy Cloud Developing]() | AWS Academy Graduate - AWS Academy Cloud Developing |
+| ![AWS Academy Graduate - AWS Academy Cloud Foundations]() | AWS Academy Graduate - AWS Academy Cloud Foundations |
+| ![Cisco CCNA](https://img.shields.io/badge/CCNA%3A%20Introduction%20to%20Networks-t?style=for-the-badge&logo=cisco&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Ffbdeea3a-a2da-46d6-815a-dbcbe7c2877b%2Flinked_in_profile) | CCNA: Introduction to Networks |
+| ![Cisco CCNA](https://img.shields.io/badge/CCNA%3A%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials-t?style=for-the-badge&logo=cisco&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fe3f95cab-591f-428d-adb0-67dfdc04ca72%2Flinked_in_profile) | CCNA: Switching, Routing, and Wireless Essentials |
+| ![Cisco CCNA](https://img.shields.io/badge/CCNA%3A%20Enterprise%20Networking%2C%20Security%2C%20and%20Automation-t?style=for-the-badge&logo=cisco&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F8199319e-c742-4c8c-a8bd-9c4d5ba77edd%2Flinked_in_profile) | CCNA: Enterprise Networking, Security, and Automation |

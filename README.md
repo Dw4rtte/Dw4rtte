@@ -10,9 +10,9 @@
 
 <img align="right" height="255" src="https://i.pinimg.com/736x/5d/2e/7d/5d2e7d1816c34b62c5d7737976904527.jpg">
 
-👋 Tenho 20 anos e sou estudante de Tecnologia da Informação no SENAI. Desde cedo, a curiosidade sobre como funcionam sistemas, redes e dispositivos despertou minha paixão pela tecnologia. Esse interesse me motivou a iniciar minha formação técnica em TI, onde venho adquirindo conhecimentos sólidos em infraestrutura de redes, administração de sistemas e segurança cibernética.
+🎓 Estudante de Tecnologia da Informação no SENAI. Sou um entusiasta da tecnologia, sempre curioso sobre como sistemas, redes e dispositivos funcionam. Essa paixão me levou a iniciar minha formação técnica em TI, onde venho desenvolvendo habilidades sólidas em infraestrutura de redes, administração de sistemas e segurança cibernética.
 
-🚀 Minha maior motivação está em desenvolver habilidades práticas e entender o que acontece “nos bastidores” da tecnologia. Encaro cada desafio como uma oportunidade de aprendizado, buscando sempre ampliar minha visão e construir uma base forte para minha carreira na área de TI.
+💡 Motivação pessoal: Desenvolver habilidades práticas e entender o "por trás dos bastidores" da tecnologia são o que mais me envolvem. Encaro cada novo desafio como uma chance de aprender algo valioso e ampliar minha visão na área de TI.
 
 _**"Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e as torne grandes." — Orison Swett Marden**_
 

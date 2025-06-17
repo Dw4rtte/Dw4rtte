@@ -39,9 +39,10 @@ _**"Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e as
 
 | Certificação | Nome |
 | --- | --- |
-| ![AWS Academy Graduate](https://img.shields.io/badge/AWS_Academy_Graduate-t?style=for-the-badge&logo=amazonwebservices&logoColor=white&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F3e493b05-2519-4654-a758-297b96a85dfc%2Fpublic_url) | Cloud Developing |
-| ![AWS Academy Graduate](https://img.shields.io/badge/AWS_Academy_Graduate-t?style=for-the-badge&logo=amazonwebservices&logoColor=white&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fa1c2b7f5-1496-4397-9088-ad11cb7acb86%2Flinked_in_profile) | Cloud Foundations |
-| ![Cisco CCNA](https://img.shields.io/badge/cisco%3A_ccna-t?style=for-the-badge&logo=cisco&logoColor=white&color=darkblue&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F8199319e-c742-4c8c-a8bd-9c4d5ba77edd%2Flinked_in_profile) | Enterprise Networking, Security, and Automation |
-| ![Cisco CCNA](https://img.shields.io/badge/cisco%3A_ccna-t?style=for-the-badge&logo=cisco&logoColor=white&color=darkblue&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fe3f95cab-591f-428d-adb0-67dfdc04ca72%2Flinked_in_profile) | Switching, Routing, and Wireless Essentials |
-| ![Cisco CCNA](https://img.shields.io/badge/cisco%3A_ccna-t?style=for-the-badge&logo=cisco&logoColor=white&color=darkblue&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Ffbdeea3a-a2da-46d6-815a-dbcbe7c2877b%2Flinked_in_profile) | Introduction to Networks |
+| ![AWS Academy Graduate](https://img.shields.io/badge/AWS%20Academy%20Graduate-t?style=for-the-badge&color=black) | Cloud Security Foundations |
+| ![AWS Academy Graduate](https://img.shields.io/badge/AWS%20Academy%20Graduate-t?style=for-the-badge&color=black) | Cloud Developing |
+| ![AWS Academy Graduate](https://img.shields.io/badge/AWS%20Academy%20Graduate-t?style=for-the-badge&color=black) | Cloud Foundations |
+| ![Cisco: CCNA](https://img.shields.io/badge/CISCO%3A%20CCNA-t?style=for-the-badge&color=darkblue) | Enterprise Networking, Security, and Automation |
+| ![Cisco: CCNA](https://img.shields.io/badge/CISCO%3A%20CCNA-t?style=for-the-badge&color=darkblue) | Switching, Routing, and Wireless Essentials |
+| ![Cisco: CCNA](https://img.shields.io/badge/CISCO%3A%20CCNA-t?style=for-the-badge&color=darkblue) | Introduction to Networks |
 | ![Senai](https://img.shields.io/badge/Senai-t?style=for-the-badge&logo=semanticui&logoColor=darkred&color=white) | Computer Network Technician |

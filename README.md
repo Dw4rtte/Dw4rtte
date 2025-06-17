@@ -37,8 +37,6 @@ _**"Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e as
 
 ## 🎖️ Certificações
 
-<img align="right" height="311" src="https://i.pinimg.com/736x/73/f7/24/73f72450d951d7e7220f90dd11de8f23.jpg">
-
 | Certificação | Nome |
 | --- | --- |
 | ![AWS Academy Graduate](https://img.shields.io/badge/AWS_Academy_Graduate-t?style=for-the-badge&logo=amazonwebservices&logoColor=white&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F3e493b05-2519-4654-a758-297b96a85dfc%2Fpublic_url) | Cloud Developing |

@@ -10,9 +10,9 @@
 
 <img align="right" height="270" src="https://i.pinimg.com/736x/5d/2e/7d/5d2e7d1816c34b62c5d7737976904527.jpg">
 
-🎓 Sou estudante de Tecnologia da Informação. Desde cedo, a curiosidade sobre como funcionam sistemas, redes e dispositivos despertou minha paixão pela tecnologia. Esse interesse me motivou a iniciar minha formação técnica em TI, onde venho adquirindo conhecimentos sólidos em infraestrutura de redes, administração de sistemas e segurança cibernética.
+🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na USCS e formado em Técnico em Redes de Computadores pelo SENAI. Tenho interesse em compreender o funcionamento de sistemas, redes e computadores, conectando conhecimentos teóricos e práticos adquiridos na formação técnica e acadêmica.
 
-🚀 Minha maior motivação está em desenvolver habilidades práticas e entender o que acontece “nos bastidores” da tecnologia. Encaro cada desafio como uma oportunidade de aprendizado, buscando sempre ampliar minha visão e construir uma base forte para minha carreira na área de TI.
+🚀 Atualmente, foco no desenvolvimento de habilidades técnicas e na construção de uma base sólida em programação, fundamentos de sistemas, redes e infraestrutura de TI, encarando cada desafio como uma oportunidade de aprendizado e evolução contínua.
 
 _**"Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e as torne grandes." — Orison Swett Marden**_
 

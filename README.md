@@ -10,7 +10,7 @@
 
 <img align="right" height="270" src="https://i.pinimg.com/736x/5d/2e/7d/5d2e7d1816c34b62c5d7737976904527.jpg">
 
-🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na USCS e formado em Técnico em Redes de Computadores pelo SENAI e com curso de Informática concluído. Tenho interesse em compreender o funcionamento de sistemas, redes e computadores, conectando conhecimentos teóricos e práticos adquiridos na formação técnica e acadêmica.
+🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na USCS, formado em Técnico em Redes de Computadores pelo SENAI e com curso de Informática concluído. Tenho interesse em compreender o funcionamento de sistemas, redes e computadores, conectando conhecimentos teóricos e práticos adquiridos na formação técnica e acadêmica.
 
 🚀 Atualmente, foco no desenvolvimento de habilidades técnicas e na construção de uma base sólida em programação, fundamentos de sistemas, redes e infraestrutura de TI, encarando cada desafio como uma oportunidade de aprendizado e evolução contínua.
 

@@ -47,4 +47,6 @@ _**"Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e as
 | ![Cisco: CCNA](https://img.shields.io/badge/CISCO%3A%20CCNA-t?style=for-the-badge&color=darkblue) | Enterprise Networking, Security, and Automation |
 | ![Cisco: CCNA](https://img.shields.io/badge/CISCO%3A%20CCNA-t?style=for-the-badge&color=darkblue) | Switching, Routing, and Wireless Essentials |
 | ![Cisco: CCNA](https://img.shields.io/badge/CISCO%3A%20CCNA-t?style=for-the-badge&color=darkblue) | Introduction to Networks |
+| ![Cisco](https://img.shields.io/badge/CISCO%3A%20CCNA-t?style=for-the-badge&color=darkblue) | Networking Basics |
+| ![Cisco](https://img.shields.io/badge/CISCO%3A%20CCNA-t?style=for-the-badge&color=darkblue) | Computer Hardware Basics |
 | ![Senai](https://img.shields.io/badge/Senai-t?style=for-the-badge&logo=semanticui&logoColor=darkred&color=white) | Computer Network Technician |

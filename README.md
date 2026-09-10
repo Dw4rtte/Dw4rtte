@@ -3,40 +3,38 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&duration=4500&pause=1000&color=CCBCA2&center=true&vCenter=true&width=435&lines=%E2%80%A2+Cybersecurity+%E2%80%A2;%E2%80%A2+Infrastructure+%E2%80%A2;%E2%80%A2+Hardware+%E2%80%A2;%E2%80%A2+Windows+%7C+Linux+%E2%80%A2">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=35&duration=4500&pause=1000&color=CCBCA2&center=true&vCenter=true&width=435&lines=%E2%80%A2+Data+Analyst+%E2%80%A2;%E2%80%A2+Power+BI+%E2%80%A2;%E2%80%A2+Python+%E2%80%A2;%E2%80%A2+MySQL+%E2%80%A2;%E2%80%A2+Advanced+Excel+%E2%80%A2;%E2%80%A2+Data+Analysis+%E2%80%A2">
 </p>
 
-## Sobre Mim
+---
+
+## 👨‍💻 Sobre Mim
 
 <img align="right" height="270" src="https://i.pinimg.com/736x/5d/2e/7d/5d2e7d1816c34b62c5d7737976904527.jpg">
 
-🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na USCS, formado em Técnico em Redes de Computadores pelo SENAI e com curso de Informática concluído. Tenho interesse em compreender o funcionamento de sistemas, redes e computadores, conectando conhecimentos teóricos e práticos adquiridos na formação técnica e acadêmica.
+🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na USCS, formado em Técnico em Redes de Computadores pelo SENAI, com formação complementar em Informática. Minha formação me proporcionou uma base em tecnologia, sistemas, redes e computadores, unindo conhecimentos teóricos e práticos que contribuem para meu desenvolvimento na área de TI.
 
-🚀 Atualmente, foco no desenvolvimento de habilidades técnicas e na construção de uma base sólida em programação, fundamentos de sistemas, redes e infraestrutura de TI, encarando cada desafio como uma oportunidade de aprendizado e evolução contínua.
+🚀 Atualmente, estou focado no desenvolvimento de habilidades em Análise de Dados, aprimorando meus conhecimentos em Python, SQL, MySQL, Power BI e Excel, enquanto fortaleço minha base em programação e fundamentos de TI. Busco evoluir continuamente, transformando cada desafio em uma oportunidade de aprendizado e desenvolvimento profissional.
 
 _**"Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e as torne grandes." — Orison Swett Marden**_
 
 ---
 
-## Habilidades Técnicas
+## 🛠️ Habilidades Técnicas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,python,azure,aws,windows,linux">
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,git,vscode,aws,windows,linux" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8">
-  <img src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0">
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624">
-</p>
-
-
+---
 
 ## 🎖️ Certificações
 
+<img align="left" height="555" src="https://i.pinimg.com/736x/a4/45/a5/a445a5d58452936dda3b720427deda61.jpg">
+  
 | Certificação | Nome |
 | --- | --- |
 | ![Fortinet](https://img.shields.io/badge/Fortinet%20-t?style=for-the-badge&color=darkred) | Certified Associate Cybersecurity (Exp. 08/27) |

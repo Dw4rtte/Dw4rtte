@@ -33,7 +33,7 @@ _**"Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e as
 
 ## 🎖️ Certificações
 
-<img align="left" height="410" src="https://i.pinimg.com/736x/a4/45/a5/a445a5d58452936dda3b720427deda61.jpg">
+<img align="left" height="405" src="https://i.pinimg.com/736x/a4/45/a5/a445a5d58452936dda3b720427deda61.jpg">
   
 | Certificação | Nome |
 | --- | --- |

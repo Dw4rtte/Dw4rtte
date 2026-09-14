@@ -33,10 +33,9 @@ _**"Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e as
 
 ## 🎖️ Certificações
 
-<img align="left" height="403" src="https://i.pinimg.com/736x/a4/45/a5/a445a5d58452936dda3b720427deda61.jpg">
-  
 | Certificação | Nome |
 | --- | --- |
+| ![Fortinet](https://img.shields.io/badge/Fortinet%20-t?style=for-the-badge&color=darkred) | Certified Associate Cybersecurity (Exp. 08/27) |
 | ![Fortinet](https://img.shields.io/badge/Fortinet%20-t?style=for-the-badge&color=darkred) | FortiGate 7.6 Operator |
 | ![AWS Academy Graduate](https://img.shields.io/badge/AWS%20Academy%20Graduate-t?style=for-the-badge&color=black) | Cloud Security Foundations |
 | ![AWS Academy Graduate](https://img.shields.io/badge/AWS%20Academy%20Graduate-t?style=for-the-badge&color=black) | Cloud Developing |
@@ -44,4 +43,6 @@ _**"Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e as
 | ![Cisco: CCNA](https://img.shields.io/badge/CISCO%3A%20CCNA-t?style=for-the-badge&color=darkblue) | Enterprise Networking, Security, and Automation |
 | ![Cisco: CCNA](https://img.shields.io/badge/CISCO%3A%20CCNA-t?style=for-the-badge&color=darkblue) | Switching, Routing, and Wireless Essentials |
 | ![Cisco: CCNA](https://img.shields.io/badge/CISCO%3A%20CCNA-t?style=for-the-badge&color=darkblue) | Introduction to Networks |
+| ![Cisco](https://img.shields.io/badge/cisco%20-t?style=for-the-badge&logoColor=white&color=blue) | Networking Basics |
+| ![Cisco](https://img.shields.io/badge/cisco%20-t?style=for-the-badge&logoColor=white&color=blue) | Computer Hardware Basics |
 | ![Senai](https://img.shields.io/badge/Senai-t?style=for-the-badge&logo=semanticui&logoColor=darkred&color=white) | Computer Network Technician |
